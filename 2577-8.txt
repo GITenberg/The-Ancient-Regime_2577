@@ -17,7 +17,7 @@ Annotator: Svend Rom
 Translator: John Durand, 1880
 
 Posting Date: June 18, 2008 [EBook #2577]
-Release Date: April, 2001
+Release Date: August 29, 2017
 
 Language: English
 
@@ -560,7 +560,7 @@ the one we need it would not be through some fashionable theory. The
 point is, if it exists, to discover it, and not to put it to a vote. To
 do that would not only be pretentious it would be useless; history and
 nature will do it for us; it is for us to adapt ourselves to them, as
-it is certain they will accommodate themselves to us. The social and
+it is certain they will not accommodate themselves to us. The social and
 political mold, into which a nation may enter and remain, is not
 subject to its will, but determined by its character and its past. It
 is essential that, even in its least traits, it should be shaped on the
@@ -673,7 +673,7 @@ volumes, the dispatches of military officers in 1789 and 1790, letters,
 memoirs and detailed statistics preserved in the one hundred boxes of
 the ecclesiastical committee, the correspondence, in 94 bundles, of the
 department and municipal authorities with the ministries from 1790 to
-1799, the reports of the Councilors of State on mission at the end of
+1799, the reports of the Councilors of State on their mission at the end of
 1801, the reports of prefects under the Consulate, the Empire, and
 the Restoration down to 1823. There is such a quantity of unknown and
 instructive documents besides these that the history of the Revolution
@@ -709,7 +709,7 @@ NOTES:
 National Archives. (SR.)]
 
 [Footnote 0012: One sou equals 1/20th of a franc or 5 centimes. 12
-diniers equaled one sou. (SR.)]
+deniers equaled one sou. (SR.)]
 
 
 
@@ -824,7 +824,7 @@ more than the layman does. Through his temperate, judicious, economical
 system he consumes less than the layman does. Hence it is that where
 the layman had failed he sustains himself and even prospers.[1105] He
 welcomes the unfortunate, feeds them, sets them to work, and unites them
-in matrimony and beggars, vagabonds, and fugitive peasants gather around
+in matrimony; and beggars, vagabonds, and fugitive peasants gather around
 the sanctuary. Their camp gradually becomes a village and next a small
 town; man plows as soon as he can be sure of his crops, and becomes the
 father of a family as soon as he considers himself able to provide for
@@ -835,7 +835,7 @@ To food for the body add food for the soul, not less essential. For,
 along with nourishment, it was still necessary to furnish Man with
 inducements to live, or, at the very least, with the resignation that
 makes life endurable, and also with the poetic daydreams taking the
-place of massing happiness.[1107] Down to the middle of the thirteenth
+place of missing happiness.[1107] Down to the middle of the thirteenth
 century the clergy stands almost alone in furnishing this. Through
 its innumerable legends of saints, through its cathedrals and their
 construction, through its statues and their expression, through its
@@ -908,7 +908,7 @@ his breast, stands firm, and protects a patch of the soil with his
 sword. To perform this service he has no need of ancestors; all that
 he requires is courage, for he is himself an ancestor; security for the
 present, which he insures, is too acceptable to permit any quibbling
-about his title.-Finally, after so many centuries, we find each district
+about his title. Finally, after so many centuries, we find each district
 possessing its armed men, a settled body of troops capable of resisting
 nomadic invasion; the community is no longer a prey to strangers. At the
 end of a century this Europe, which had been sacked by the Vikings, is
@@ -944,7 +944,7 @@ the call, which at this moment issues from all institutions like the
 summons of a brazen horn.--Thanks to these braves, the peasant(villanus)
 enjoys protection. He is no longer to be slaughtered, no longer to be
 led captive with his family, in herds, with his neck in the yoke. He
-ventures to plow and to sow, and to reply upon his crops; in case of
+ventures to plow and to sow, and to rely upon his crops; in case of
 danger he knows that he can find an asylum for himself, and for
 his grain and cattle, in the circle of palisades at the base of the
 fortress. By degrees necessity establishes a tacit contract between
@@ -987,7 +987,7 @@ and he devotes his leisure to exterminating large wild beasts. He alone
 possessed the resources. He is the only one that is able to construct
 the mill, the oven, and the winepress; to establish the ferry, the
 bridge, or the highway, to dike in a marsh, and to raise or purchase a
-bull. To indemnify himself he taxes for these, for forces their use. If
+bull. To indemnify himself he taxes for these, or forces their use. If
 he is intelligent and a good manager of men, if he seeks to derive the
 greatest profit from his ground, he gradually relaxes, or allows to
 become relaxed, the meshes of the net in which his peasants and serfs
@@ -1041,7 +1041,7 @@ useful projects carried out under his orders, or developed under his
 patronage, roads, harbors, canals, asylums, universities, academies,
 institutions of piety, of refuge, of education, of science, of
 industry, and of commerce, bears his imprint and proclaim the public
-benefactor.-Services of this character challenge a proportionate
+benefactor. Services of this character challenge a proportionate
 recompense; it is allowed that from father to son he is wedded to
 France; that she acts only through him; that he acts only for her;
 while every souvenir of the past and every present interest combine to
@@ -1064,7 +1064,7 @@ ancestors. In this sense, the vessel is his property; it is his right
 to it is the same as that of each passenger to his private goods. The
 king's only duty consists in being expert and vigilant in guiding
 across the oceans and beneath his banner the magnificent ship upon which
-everyone's welfare depends.-Under the ascendancy of such an idea he was
+everyone's welfare depends. Under the ascendancy of such an idea he was
 allowed to do everything. By fair means or foul, he so reduced ancient
 authorities as to make them a fragment, a pretense, a souvenir. The
 nobles are simply his officials or his courtiers. Since the Concordat
@@ -1079,7 +1079,7 @@ the Clergy. In short, he is absolute master, and he so declares
 himself.[1120]--Possessions, freedom from taxation, the satisfactions
 of vanity, a few remnants of local jurisdiction and authority, are
 consequently all that is left to his ancient rivals; in exchange for
-these they enjoy his favors and marks of preference.-Such, in brief, is
+these they enjoy his favors and marks of preference. Such, in brief, is
 the history of the privileged classes, the Clergy, the Nobles, and
 the King. It must be kept in mind to comprehend their situation at the
 moment of their fall; having created France, they enjoy it. Let us see
@@ -1339,7 +1339,7 @@ on its property do not suffice to reduce the capital and meet the
 interest on its debt, it has the adroitness to secure, besides, a
 grant from the king. Out of the royal treasury, each year, it receives
 2,500,000 livres, so that, instead of paying, it receives. In 1787 it
-receives in this way 1,500,000 livres.-As for the nobles, they, being
+receives in this way 1,500,000 livres. As for the nobles, they, being
 unable to combine together, to have representatives, and to act in a
 public way, operate instead in a private way. They contact ministers,
 intendants, sub-delegates, farmer-generals, and all others clothed with
@@ -1465,13 +1465,13 @@ compensation for his judicial costs, he obtains the property of the man
 condemned to death and the confiscation of his estate. He succeeds to
 the bastard born and dying in his seigniory without leaving a testament
 or legitimate children. He inherits from the possessor, legitimately
-born, dying in testate in his house without apparent heirs. He
+born, dying intestate in his house without apparent heirs. He
 appropriates to himself movable objects, animate or inanimate, which are
 found astray and of which the owner is unknown; he claims one-half or
 one-third of treasure-trove, and, on the coast, he takes for himself the
 waif of wrecks. And finally, what is more fruitful, in these times of
 misery, he becomes the possessor of abandoned lands that have remained
-untilled for ten years.-Other advantages demonstrate still more clearly
+untilled for ten years. Other advantages demonstrate still more clearly
 that he formerly possessed the government of the canton. Such are, in
 Auvergne, in Flanders, in Hainaut, in Artois, in Picardy, Alsace, and
 Lorraine, the dues de poursoin ou de sauvement (care or safety within
@@ -1481,7 +1481,7 @@ military protection; of afforage, are exacted of those who sell beer,
 wine and other beverages, whole-sale or retail. The dues of fouage,
 dues on fires, in money or grain, which, according to many common-law
 systems, he levies on each fireside, house or family. The dues of
-pulvérage, quite common in Dauphiny-and Provence, are levied on passing
+pulvérage, quite common in Dauphiny and Provence, are levied on passing
 flocks of sheep. Those of the lods et ventes (lord's due), an almost
 universal tax, consist of the deduction of a sixth, often of a fifth or
 even a fourth, of the price of every piece of ground sold, and of
@@ -1584,7 +1584,7 @@ lord's dues (lods and ventes)." The reader, finally, must take note
 that all these restrictions on property constitute, for the seignior, a
 privileged credit as well on the product as on the price of the
 ground, and, for the copyholders, an unprescriptive, indivisible and
-irredeemable debt.-Such are the feudal. To form an idea of them in their
+irredeemable debt. Such are the feudal. To form an idea of them in their
 totality we must always imagine the count, bishop or abbot of the tenth
 century as sovereign and proprietor in his own canton. The form which
 human society then takes grows out of the exigencies of near and
@@ -1943,8 +1943,8 @@ II. Resident Seigniors.
 
 If we go back a little way in our history we find here and there similar
 nobles.[1303] Such was the Duc de Saint-Simon, father of the writer,
-a real sovereign in his government of Blaye, a respected by the king
-himself. Such was the grandfather Mirabeau, in his chateau of Mirabeau
+a real sovereign in his government of Blaye, and respected by the king
+himself. Such was the grandfather of Mirabeau, in his chateau of Mirabeau
 in Provence, the haughtiest, most absolute, most intractable of men,
 "demanding that the officers whom he appointed in his regiment should
 be favorably received by the king and by his ministers," tolerating the
@@ -2025,7 +2025,7 @@ seen this custom everywhere disappear, and rightly so. . . . The
 seigniors are no longer of any consequence to them; is quite natural
 that they should be forgotten by them as they forget. . . . The seignior
 being no longer known on his estates everybody pillages him, which is
-right."[1306] Everywhere, except in remote comers, the affection and
+right."[1306] Everywhere, except in remote corners, the affection and
 unity of the two classes has disappeared; the shepherd is separated
 from his flock, and pastors of the people end in being considered its
 parasites.
@@ -2089,7 +2089,7 @@ consternation" at the prospect of suppressing their abbey of
 Benedictines, the sole charitable organization in this poor country. At
 Sierk, Thionville, "the Chartreuse," say the leading citizens, "is, for
 us, in every respect, the Ark of the Lord; it is the main support of
-from more than twelve to fifteen hundred persons who come it every day
+from more than twelve to fifteen hundred persons who come to it every day
 in the week. This year the monks have distributed amongst them their
 own store of grain at sixteen livres less than the current price." The
 regular canons of Domiévre, in Lorrraine, feed sixty poor persons twice
@@ -2198,7 +2198,7 @@ hunting and fishing rights from the universal usurpation which places
 all possessions and all privileges in the hands of "Monseigneur
 l'intendant" and Messieurs the sub-delegates. And the more so because he
 is often poor. Bouillé estimates that all the old families, save two or
-three hundred, are ruined.[1317] I Rouergue several of them live on an
+three hundred, are ruined.[1317] In Rouergue several of them live on an
 income of fifty and even twenty-five louis, (1000 and 500 francs). In
 Limousin, says an intendant at the beginning of the century, out of
 several thousands there are not fifteen who have twenty thousand livres
@@ -2224,7 +2224,7 @@ refusing to work."[1318] Elsewhere we encounter "M. de Pérignan, with
 his red garments, wig and ginger face, having dry stone wails built on
 his domain, and getting intoxicated with the blacksmith of the
 place;" related to Cardinal Fleury, he is made the first Duc de
-Fleury.-Everything contributes to this decay, the law, habits and
+Fleury. Everything contributes to this decay, the law, habits and
 customs, and, above all, the right of primogeniture. Instituted for the
 purpose of maintaining undivided sovereignty and patronage it ruins the
 nobles since sovereignty and patronage have no material to work on. "In
@@ -2241,7 +2241,7 @@ dies out, they neither know how, nor are they disposed, to restore
 by commerce, manufactures or proper administration of it; it would
 be derogatory. "High and mighty seigniors of dove-cote, frog-pond and
 rabbit-warren," the more substance they lack the more value they set
-on the name.-Add to all this winter sojourn in town, the ceremonial and
+on the name. Add to all this winter sojourn in town, the ceremonial and
 expenses caused by vanity and social requirements, and the visits to
 the governor and the intendant. A man must be either a German or an
 Englishman to be able to pass three gloomy, rainy months in a castle
@@ -8477,7 +8477,7 @@ constituted the prevalent method taught by the philosophers under
 the name of analysis, and which sums up the whole progress of the
 century.--Up to this point, and not farther, they are right; truth,
 every truth, is found in observable things, and only from these can
-it be derived; there is no other pathway leading to discovery.-The
+it be derived; there is no other pathway leading to discovery. The
 operation, undoubtedly, is productive only when the vein is rich, and
 we possess the means of extracting the ore. To obtain a just notion of
 government, of religion, of right, of wealth, a man must be a historian
@@ -10424,7 +10424,7 @@ the murders and the assassinations he is guilty of, matters that are
 hushed up and forgotten in a few months?--Let this same man be robbed
 and the entire police set to work, and woe to the poor innocents
 they suspect!--Has he to pass a dangerous place, escorts overrun the
-country.-If the axle of his coach breaks down everybody runs to
+country. If the axle of his coach breaks down everybody runs to
 help him.--Is a noise made at his gate, a word from him and all
 is silent.--Does the crowd annoy him, he makes a sign and order
 reigns.--Does a carter chance to cross his path, his attendants are
@@ -16981,7 +16981,7 @@ obeying the national Assembly, these two unfortunate men prepared a
 table of taxes; or when at Troyes, they drag through the streets and
 tear to pieces the venerable magistrate who was nourishing them at
 that very moment, and who had just dictated his testament in their
-favor.-Take the still rude brain of a contemporary peasant and deprive
+favor. Take the still rude brain of a contemporary peasant and deprive
 it of the ideas which, for eighty years past, have entered it by so many
 channels, through the primary school of each village, through the return
 home of the conscript after seven years' service, through the prodigious
@@ -17008,7 +17008,7 @@ by nothing, provided they can eat and sleep at regular hours."
 
 They make no complaints, "they do not even dream of complaining;"[5304]
 their wretchedness seems to them natural like winter or hail. Their
-minds, like their agriculture, still belong to the middle ages.-In the
+minds, like their agriculture, still belong to the middle ages. In the
 environment of Toulouse,[5305] to ascertain who committed a robbery, to
 cure a man or a sick animal, they resort to a sorcerer, who divines this
 by means of a sieve. The countryman fully believes in ghosts and, on
@@ -17217,7 +17217,7 @@ wounded and one of the officers has his coat pierced; guards arrive, but
 the poachers stand firm and repel them; dragoons are sent for and the
 poachers kill of these, along with three horses, and are attacked
 with sabers; four of them are brought to the ground and seven are
-captured.-Reports of the States-General show that every year, in each
+captured. Reports of the States-General show that every year, in each
 extensive forest, murders occur, sometimes at the hands of a poacher,
 and again, and the most frequently, by the shot of a gamekeeper.--It is
 a continuous warfare at home; every vast domain thus harbors its rebels,
